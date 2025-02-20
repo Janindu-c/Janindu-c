@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="cover/thumbnail.png" alt="Portfolio Cover" width="700"/>
+</p>
 
-<!--
-**Janindu-c/Janindu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
+- 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
+- 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
+- 💬 Ask me about **React, Node.js, MongoDB, and full-stack development**.  
+- 📫 Portfolio: 
+- 😄 Pronouns: **He/Him** (or your preferred pronouns)  
+- ⚡ Fun fact: **I love solving coding challenges and experimenting with new frameworks in my free time!**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
