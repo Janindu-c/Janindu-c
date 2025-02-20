@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="cover/thumbnail.png" alt="Portfolio Cover" width="600"/>
-</p>
+
 
 <div align="center">
  <h3>🫱🏻‍🫲🏻 Connect with me</h3>
@@ -11,6 +9,10 @@
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"></a>
   <a href="mailto:janindu.c@boroncorp.org"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="cover/thumbnail.png" alt="Portfolio Cover" width="600"/>
 </p>
 
 - 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
