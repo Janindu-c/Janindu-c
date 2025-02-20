@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover/thumbnail.png" alt="Portfolio Cover" width="700"/>
+  <img src="cover/thumbnail.png" alt="Portfolio Cover" width="600"/>
 </p>
 
 - 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
