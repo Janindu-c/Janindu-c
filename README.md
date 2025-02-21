@@ -19,9 +19,9 @@
 - 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
 - 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
 - 💬 Ask me about **React, Node.js, MongoDB, and full-stack development**.  
-- 📫 Portfolio: 
-- 😄 Pronouns: **He/Him** (or your preferred pronouns)  
-- ⚡ Fun fact: **I love solving coding challenges and experimenting with new frameworks in my free time!**  
+- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)
+- 😄 Nickname: **Scorpio** 
+- ⚡ Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**  
 
 <div align="center">
  <h3>🤖 Skills
